@@ -30,23 +30,6 @@ My goal is not only to build logic hardware, but to share an **educational and c
 
 ---
 
-## 📁 Repository Structure
-
-```
-logisim-projects/
-│
-├── alu-8bit/
-│   ├── alu.circ
-│   └── README.md
-│
-├── [other-projects]/
-│   ├── ...
-│
-└── README.md
-```
-
----
-
 ## 🛠️ Future Ideas
 
 - Full ALU with logical operations and MUX-based control
@@ -62,17 +45,3 @@ logisim-projects/
 **OT1devl**  
 A passionate self-taught creator focused on building everything from the ground up with depth, creativity, and precision.  
 Goal: Understand and replicate the soul of a computer.
-
----
-
-## ⭐ Contributions
-
-Feel free to open an issue or fork the repo if you want to contribute, create new modules, or expand existing ones. All contributions are welcome 🤝
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.  
-Use, study, modify, and learn from it freely.
-
